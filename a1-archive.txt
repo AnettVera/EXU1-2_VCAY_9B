@@ -2,3 +2,7 @@ Archivo de la actividad1 -Anett Yomali Vera Carbajal
 Parrafo 2 desde main
 
 
+Parrafo #1 desde user1
+Parrafo #1 desde user2
+Parrafo #2 desde user1
+Parrafo #2 desde user2
